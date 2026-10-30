@@ -1,0 +1,22 @@
+{
+  "wheel_id": 546,
+  "structure": "umbrella",
+  "slug": "goldcoastgaragedoorrepairs-105",
+  "project": "garage-door-repairs-gold-coast-beginner-guide-94b8bb569561273b6",
+  "parent_t1_ref": "goldcoastgaragedoorrepairs-152",
+  "node_role": "feeder",
+  "money_target": "goldcoastgaragedoorrepairs.com.au",
+  "primary_kw": "garage door repairs gold coast beginner guide",
+  "intended_url": "https://sitesau.github.io/goldcoastgaragedoorrepairs-105/",
+  "tier": "T2",
+  "writeback_nonce": "109f31d880b0bfab",
+  "links": [
+    {
+      "target_url": "https://vercel-cloudsites-hub.vercel.app/sites-01/garage-door-repairs-gold-coast-what-to-expect-847fe6b7ca2a7c/",
+      "anchor": "this garage door repairs gold coast what to expect guide",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
